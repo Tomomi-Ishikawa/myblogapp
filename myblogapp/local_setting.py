@@ -2,7 +2,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '(!r)rmfz7obyswg*7(farggxqgn-l10nm(*3%ajwiq*#z(83n&'
+#SECRET_KEY =
 
 
 DATABASES = {
